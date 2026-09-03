@@ -5,7 +5,7 @@ Implementação do exemplo clássico da Biblioteca salvando os dados em um banco
 As tabelas do projeto são:
 
 **usuarios**(*id, nome*)
-**autor**(*id, nome*)
+**autor**(*id, nome*) 
 **livros**(*id, titulo, ano_publicacao, edicao, disponivel, id_autor*)
 **emprestimos**("id, usuario_id, data*)
 **editora**(*id, nome*)
